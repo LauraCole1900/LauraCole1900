@@ -40,7 +40,7 @@
         <img src="assets/materialize-icon.png" alt="Materialize">
       </td>
       <td align="center" width=75px>
-        <img src="assets/js-icon.png" alt="JavaScript">
+        <img src="assets/js-icon-2.png" alt="JavaScript">
       </td>
       <td align="center" width=75px>
         <img src="assets/jquery-icon.png" alt="jQuery">
