@@ -2,7 +2,7 @@
 
 # 👋 Hello! Welcome! I'm [Laura](https://lauracole1900.github.io/react-portfolio/).
 
-### I'm a 👩‍💻 webdev / 🎶 musician / 🥋 martial artist with a background in education and a passion for helping others. Want to know more?
+### I'm a 👩‍💻 webdev / 🎶 musician / 🥋 martial artist with a background in education, who gets excited about learning new things, and has a passion for helping others. Want to know more?
 
 * [My Github](https://github.com/LauraCole1900)
 * [My Repositories](https://github.com/LauraCole1900?tab=repositories)
