@@ -1,4 +1,4 @@
-![Header](assets/meeker-n-longs-narrow.jpg)
+<div align="center"><img src="assets/meeker-n-longs-narrow.jpg" alt="Header"></div>
 
 # Hello! Welcome! I'm [Laura](https://lauracole1900.github.io/react-portfolio/).
 
@@ -28,51 +28,51 @@ I'm a webdev/musician/martial artist with a background in education and a passio
     </tr>
     <tr>
       <td align="center" width=75px>
-        <img src="assets/html5-icon.png">
+        <img src="assets/html5-icon.png" alt="HTML5">
       </td>
       <td align="center" width=75px>
-        <img src="assets/css3-icon.png">
+        <img src="assets/css3-icon.png" alt="CSS3">
       </td>
       <td align="center" width=75px>
-        <img src="assets/bootstrap-icon.png">
+        <img src="assets/bootstrap-icon.png" alt="Bootstrap">
       </td>
       <td align="center" width=75px>
-        <img src="assets/materialize-icon.png">
+        <img src="assets/materialize-icon.png" alt="Materialize">
       </td>
       <td align="center" width=75px>
-        <img src="assets/js-icon.png">
+        <img src="assets/js-icon.png" alt="JavaScript">
       </td>
       <td align="center" width=75px>
-        <img src="assets/jquery-icon.png">
+        <img src="assets/jquery-icon.png" alt="jQuery">
       </td>
       <td align="center" width=75px>
-        <img src="assets/nodejs-icon.png">
+        <img src="assets/nodejs-icon.png" alt="Node.js">
       </td>
       <td align="center" width=75px>
-        <img src="assets/npm-icon.png">
+        <img src="assets/npm-icon.png" alt="npm">
       </td>
     </tr>
     <tr>
       <td align="center" width=75px>
-        <img src="assets/expressjs-icon.png">
+        <img src="assets/expressjs-icon.png" alt="Express">
       </td>
       <td align="center" width=75px>
-        <img src="assets/mysql-icon.png">
+        <img src="assets/mysql-icon.png" alt="MySQL">
       </td>
       <td align="center" width=75px>
-        <img src="assets/mongodb-icon.png">
+        <img src="assets/mongodb-icon.png" alt="MongoDB">
       </td>
       <td align="center" width=75px>
-        <img src="assets/GitHub-Mark-Light-120px-plus.png">
+        <img src="assets/GitHub-Mark-Light-120px-plus.png" alt="GitHub">
       </td>
       <td align="center" width=75px>
-        <img src="assets/react-icon.png">
+        <img src="assets/react-icon.png" alt="React">
       </td>
       <td align="center" width=75px>
-        <img src="assets/react-bootstrap-icon.png">
+        <img src="assets/react-bootstrap-icon.png" alt="React-Bootstrap">
       </td>
       <td align="center" width=75px>
-        <img src="assets/MERN-icon.png">
+        <img src="assets/MERN-icon.png" alt="MERN Stack">
       </td>
     </tr>
   </tbody>
