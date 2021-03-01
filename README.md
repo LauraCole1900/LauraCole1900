@@ -19,12 +19,12 @@
 <table border="0" align="center">
   <tbody>
     <tr>
-      <th colspan="7">Current Skills</th>
+      <th colspan="8">Current Skills</th>
     </tr>
     <tr>
       <td align="center" width=75px>
         <img src="assets/html5-icon.png">
-      <td>
+      </td>
       <td align="center" width=75px>
         <img src="assets/css3-icon.png">
       </td>
@@ -67,7 +67,7 @@
         <img src="assets/react-bootstrap-icon.png">
       </td>
       <td align="center" width=75px>
-        <img src="assets/react-bootstrap-icon.png">
+        <img src="assets/MERN-icon.png">
       </td>
     </tr>
   </tbody>
