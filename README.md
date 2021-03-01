@@ -1,4 +1,4 @@
-<div align="center"><img src="assets/meeker-n-longs-narrow.jpg" alt="Header"></div>
+<div align="center"><img src="assets/meeker-n-longs-narrow.jpg" alt="Header" width=100%></div>
 
 # Hello! Welcome! I'm [Laura](https://lauracole1900.github.io/react-portfolio/).
 
