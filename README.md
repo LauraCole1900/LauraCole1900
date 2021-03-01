@@ -1,19 +1,19 @@
 <div align="center"><img src="assets/meeker-n-longs-narrow-no-name.jpg" alt="Header" width=100%></div>
 
-# 👋 Hello! Welcome! I'm [Laura](https://lauracole1900.github.io/react-portfolio/).
+# 👋 Hello! Welcome! I'm [Laura](https://lauracole1900.github.io/LauraECole).
 
 ### I'm a 👩‍💻 webdev / 🎶 musician / 🥋 martial artist with a background in education, who gets excited about learning new things, and has a passion for helping others. Want to know more?
 
 * [My Github](https://github.com/LauraCole1900)
 * [My Repositories](https://github.com/LauraCole1900?tab=repositories)
 * [My LinkedIn](https://www.linkedin.com/in/laura-cole-3661b01b9/)
-* [My Website](https://lauracole1900.github.io/react-portfolio/)
+* [My Website](https://lauracole1900.github.io/LauraECole)
 * [My Résumé](https://drive.google.com/file/d/1gOy3CkufWH_k_Y9dVFQYfZc955bPCT25/view)
 * [Email me!](mailto:lauracole1900@comcast.net)
 
 |Pinned Repos|Pinned Repos|
 |:---:|:---:|
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=react-portfolio&theme=blue-green)](https://github.com/LauraCole1900/react-portfolio)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=bcms&theme=blue-green)](https://github.com/LauraCole1900/bcms)|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=LauraECole&theme=blue-green)](https://github.com/LauraCole1900/LauraECole)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=bcms&theme=blue-green)](https://github.com/LauraCole1900/bcms)|
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=conferencePlanner&theme=blue-green)](https://github.com/LauraCole1900/conferencePlanner)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=couchSurfers&theme=blue-green)](https://github.com/LauraCole1900/couchSurfers)|
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=tacoParty&theme=blue-green)](https://github.com/LauraCole1900/tacoParty)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=apiWeatherDashboard&theme=blue-green)](https://github.com/LauraCole1900/apiWeatherDashboard)|
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=mysqlEmployeeTracker&theme=blue-green)](https://github.com/LauraCole1900/mysqlEmployeeTracker)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=holiday-ecard-2020&theme=blue-green)](https://github.com/LauraCole1900/holiday-ecard-2020)|
