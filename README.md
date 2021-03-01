@@ -1,14 +1,14 @@
 <div align="center"><img src="assets/meeker-n-longs-narrow.jpg" alt="Header" width=100%></div>
 
-# Hello! Welcome! I'm [Laura](https://lauracole1900.github.io/react-portfolio/).
+# 👋 Hello! Welcome! I'm [Laura](https://lauracole1900.github.io/react-portfolio/).
 
-I'm a webdev/musician/martial artist with a background in education and a passion for helping others. Want to know more?
+I'm a 👩‍💻 webdev / 🎶 musician / 🥋 martial artist with a background in education and a passion for helping others. Want to know more?
 
 * [My Github](https://github.com/LauraCole1900)
 * [My Repositories](https://github.com/LauraCole1900?tab=repositories)
 * [My LinkedIn](https://www.linkedin.com/in/laura-cole-3661b01b9/)
 * [My Website](https://lauracole1900.github.io/react-portfolio/)
-* [My Résumé](https://drive.google.com/file/d/1gOy3CkufWH_k_Y9dVFQYfZc955bPCT25/view?usp=sharing)
+* [My Résumé](https://drive.google.com/file/d/1gOy3CkufWH_k_Y9dVFQYfZc955bPCT25/view)
 * [Email me!](mailto:lauracole1900@comcast.net)
 
 |Pinned Repos|Pinned Repos|
