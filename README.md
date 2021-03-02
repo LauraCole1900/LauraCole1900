@@ -21,7 +21,7 @@
 |[![LauraCole1900's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraCole1900&count_private=true&show-icons=true&theme=blue-green)](https://github.com/LauraCole1900/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraCole1900&layout=compact&theme=blue-green)](https://github.com/LauraCole1900/github-readme-stats)|
 |![Github Page Visit Count](https://komarev.com/ghpvc/?username=LauraCole1900&color=brightgreen)||
 
-<table border="0" align="center" style="background-color: #040f0f; border: 1px solid white; border-radius: 2px">
+<table border="0" align="center" style="background-color: #040f0f; border: 1px solid white">
   <tbody>
     <tr>
       <th colspan="8" style="color: #2780a4">Current Skills</th>
