@@ -4,7 +4,6 @@
 
 ### I'm a 👩‍💻 webdev / 🎶 musician / 🥋 martial artist with a background in education. I get excited about learning new things, and I have a passion for helping others. Want to know more?
 
-* [My Github](https://github.com/LauraCole1900)
 * [My Repositories](https://github.com/LauraCole1900?tab=repositories)
 * [My LinkedIn](https://www.linkedin.com/in/laura-cole-3661b01b9/)
 * [My Website](https://lauracole1900.github.io/LauraECole)
@@ -39,7 +38,7 @@
         <img src="assets/css3-circle-icon.png" alt="CSS3">
       </td>
       <td align="center" width=75px>
-        <img src="assets/bootstrap-icon.png" alt="Bootstrap">
+        <img src="assets/bootstrap-icon-2.png" alt="Bootstrap">
       </td>
       <td align="center" width=75px>
         <img src="assets/materialize-icon.png" alt="Materialize">
