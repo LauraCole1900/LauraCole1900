@@ -31,51 +31,51 @@
       <th colspan="8" style="color: #2881a5">Current Skills</th>
     </tr>
     <tr>
-      <td align="center" width=75px>
+      <td align="center" width=100px>
         <img src="assets/html5-circle-icon.png" alt="HTML5">
       </td>
-      <td align="center" width=75px>
+      <td align="center" width=100px>
         <img src="assets/css3-circle-icon.png" alt="CSS3">
       </td>
-      <td align="center" width=75px>
+      <td align="center" width=100px>
         <img src="assets/bootstrap-icon-2.png" alt="Bootstrap">
       </td>
-      <td align="center" width=75px>
+      <td align="center" width=100px>
         <img src="assets/materialize-icon.png" alt="Materialize">
       </td>
-      <td align="center" width=75px>
+      <td align="center" width=100px>
         <img src="assets/js-icon-2.png" alt="JavaScript">
       </td>
-      <td align="center" width=75px>
+      <td align="center" width=100px>
         <img src="assets/jquery-icon.png" alt="jQuery">
       </td>
-      <td align="center" width=75px>
+      <td align="center" width=100px>
         <img src="assets/nodejs-icon.png" alt="Node.js">
       </td>
-      <td align="center" width=75px>
+      <td align="center" width=100px>
         <img src="assets/npm-icon.png" alt="npm">
       </td>
     </tr>
     <tr>
-      <td align="center" width=75px>
+      <td align="center" width=100px>
         <img src="assets/expressjs-icon.png" alt="Express">
       </td>
-      <td align="center" width=75px>
+      <td align="center" width=100px>
         <img src="assets/mysql-icon-2.png" alt="MySQL">
       </td>
-      <td align="center" width=75px>
+      <td align="center" width=100px>
         <img src="assets/mongodb-icon.png" alt="MongoDB">
       </td>
-      <td align="center" width=75px>
-        <img src="assets/GitHub-Mark-Light-120px-plus.png" alt="GitHub">
+      <td align="center" width=100px>
+        <img src="assets/github-mark-dark.png" alt="GitHub">
       </td>
-      <td align="center" width=75px>
+      <td align="center" width=100px>
         <img src="assets/react-icon.png" alt="React">
       </td>
-      <td align="center" width=75px>
+      <td align="center" width=100px>
         <img src="assets/react-bootstrap-icon.png" alt="React-Bootstrap">
       </td>
-      <td align="center" width=75px>
+      <td align="center" width=100px>
         <img src="assets/MERN-icon.png" alt="MERN Stack">
       </td>
       <td>
