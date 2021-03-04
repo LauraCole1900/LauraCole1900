@@ -67,7 +67,7 @@
         <img src="assets/mongodb-icon.png" alt="MongoDB">
       </td>
       <td align="center" width=100px>
-        <img src="assets/github-mark-dark.png" alt="GitHub">
+        <img src="assets/github-mark-light.png" alt="GitHub">
       </td>
       <td align="center" width=100px>
         <img src="assets/react-icon.png" alt="React">
