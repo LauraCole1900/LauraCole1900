@@ -13,8 +13,6 @@
 ### **Jump to:**
 | [Pins](#pins) || [Stats](#stats) || [Skills](#skills) || [Credits](#credits) |
 
-<br />
-
 ### **Pins**
 |Pinned Repos|Pinned Repos|
 |:---:|:---:|
@@ -22,15 +20,12 @@
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=conferencePlanner&theme=blue-green)](https://github.com/LauraCole1900/conferencePlanner)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=couchSurfers&theme=blue-green)](https://github.com/LauraCole1900/couchSurfers)|
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=tacoParty&theme=blue-green)](https://github.com/LauraCole1900/tacoParty)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=apiWeatherDashboard&theme=blue-green)](https://github.com/LauraCole1900/apiWeatherDashboard)|
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=mysqlEmployeeTracker&theme=blue-green)](https://github.com/LauraCole1900/mysqlEmployeeTracker)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=holiday-ecard-2020&theme=blue-green)](https://github.com/LauraCole1900/holiday-ecard-2020)|
-<br>
 
 ### **Stats**
 |**GitHub Stats**|**Most-Used Languages**|
 |:---:|:---:|
 |[![LauraCole1900's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraCole1900&count_private=true&show-icons=true&theme=blue-green)](https://github.com/LauraCole1900/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraCole1900&layout=compact&theme=blue-green)](https://github.com/LauraCole1900/github-readme-stats)|
 |![Github Page Visit Count](https://komarev.com/ghpvc/?username=LauraCole1900&color=brightgreen)|
-
-<br>
 
 ### **Skills**
 <table border="1px solid white" align="center" color="#2881a5" style="background-color: #040f0f; border: 1px solid white; border-radius: 4px">
@@ -115,7 +110,7 @@
   </tbody>
 </table>
 
-<br>
+<br />
 
 ### **Credits**
 
