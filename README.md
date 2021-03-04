@@ -91,6 +91,7 @@
         <img src="assets/redux-icon.png" alt="Redux">
       </td>
       <td>
+        <img src="assets/sass-icon.png" alt="Sass">
       </td>
       <td>
       </td>
