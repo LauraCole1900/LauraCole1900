@@ -67,13 +67,13 @@
         <img src="assets/mongodb-icon.png" alt="MongoDB">
       </td>
       <td align="center" width=100px>
-        <img src="assets/github-mark-light.png" alt="GitHub">
-      </td>
-      <td align="center" width=100px>
         <img src="assets/react-icon.png" alt="React">
       </td>
       <td align="center" width=100px>
         <img src="assets/react-bootstrap-icon.png" alt="React-Bootstrap">
+      </td>
+      <td align="center" width=100px>
+        <img src="assets/github-mark-light.png" alt="GitHub">
       </td>
       <td align="center" width=100px>
         <img src="assets/MERN-icon.png" alt="MERN Stack">
