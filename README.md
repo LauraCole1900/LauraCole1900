@@ -4,24 +4,25 @@
 
 ### I'm a 👩‍💻 webdev / 🎶 musician / 🥋 martial artist with a background in education. I get excited about learning new things, and I have a passion for helping others. Want to know more?
 
-* [My Repositories](https://github.com/LauraCole1900?tab=repositories)
-* [My LinkedIn](https://www.linkedin.com/in/laura-cole-3661b01b9/)
-* [My Website](https://lauracole1900.github.io/LauraECole)
-* [My Résumé](https://drive.google.com/file/d/1gOy3CkufWH_k_Y9dVFQYfZc955bPCT25/view)
-* [Email me!](mailto:lauracole1900@comcast.net)
+- [My Repositories](https://github.com/LauraCole1900?tab=repositories)
+- [My LinkedIn](https://www.linkedin.com/in/laura-cole-3661b01b9/)
+- [My Website](https://lauracole1900.github.io/LauraECole)
+- [My Résumé](https://drive.google.com/file/d/1gOy3CkufWH_k_Y9dVFQYfZc955bPCT25/view)
+- [Email me!](mailto:lauracole1900@comcast.net)
 
-|Pinned Repos|Pinned Repos|
-|:---:|:---:|
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=LauraECole&theme=blue-green)](https://github.com/LauraCole1900/LauraECole)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=bcms&theme=blue-green)](https://github.com/LauraCole1900/bcms)|
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=conferencePlanner&theme=blue-green)](https://github.com/LauraCole1900/conferencePlanner)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=couchSurfers&theme=blue-green)](https://github.com/LauraCole1900/couchSurfers)|
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=tacoParty&theme=blue-green)](https://github.com/LauraCole1900/tacoParty)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=apiWeatherDashboard&theme=blue-green)](https://github.com/LauraCole1900/apiWeatherDashboard)|
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=mysqlEmployeeTracker&theme=blue-green)](https://github.com/LauraCole1900/mysqlEmployeeTracker)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=holiday-ecard-2020&theme=blue-green)](https://github.com/LauraCole1900/holiday-ecard-2020)|
+|                                                                                        Pinned Repos                                                                                        |                                                                                       Pinned Repos                                                                                       |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|           [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=LauraECole&theme=blue-green)](https://github.com/LauraCole1900/LauraECole)           |                [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=bcms&theme=blue-green)](https://github.com/LauraCole1900/bcms)                |
+|    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=conferencePlanner&theme=blue-green)](https://github.com/LauraCole1900/conferencePlanner)    |        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=couchSurfers&theme=blue-green)](https://github.com/LauraCole1900/couchSurfers)        |
+|            [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=tacoParty&theme=blue-green)](https://github.com/LauraCole1900/tacoParty)            | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=apiWeatherDashboard&theme=blue-green)](https://github.com/LauraCole1900/apiWeatherDashboard) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=mysqlEmployeeTracker&theme=blue-green)](https://github.com/LauraCole1900/mysqlEmployeeTracker) |  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=holiday-ecard-2020&theme=blue-green)](https://github.com/LauraCole1900/holiday-ecard-2020)  |
+
 <br>
 
-|**GitHub Stats**|**Most-Used Languages**|
-|:---:|:---:|
-|[![LauraCole1900's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraCole1900&count_private=true&show-icons=true&theme=blue-green)](https://github.com/LauraCole1900/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraCole1900&layout=compact&theme=blue-green)](https://github.com/LauraCole1900/github-readme-stats)|
-|![Github Page Visit Count](https://komarev.com/ghpvc/?username=LauraCole1900&color=brightgreen)|
+|                                                                                                **GitHub Stats**                                                                                                |                                                                              **Most-Used Languages**                                                                               |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![LauraCole1900's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraCole1900&count_private=true&show-icons=true&theme=blue-green)](https://github.com/LauraCole1900/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraCole1900&layout=compact&theme=blue-green)](https://github.com/LauraCole1900/github-readme-stats) |
+|                                                        ![Github Page Visit Count](https://komarev.com/ghpvc/?username=LauraCole1900&color=brightgreen)                                                         |
 
 <br>
 
@@ -81,6 +82,29 @@
       <td>
       </td>
     </tr>
+    <tr>
+      <th colspan="8" style="color: #2881a5">Learning</th>
+    </tr>
+    <tr>
+      <td align="center" width=100px>
+        <img src="assets/ts-icon.png" alt="TypeScript">
+      </td>
+      <td align="center" width=100px>
+        <img src="assets/redux-icon.png" alt="Redux">
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -91,17 +115,17 @@
 <details>
   <summary>Resources</summary>
 
-* Pinned-repo and stats cards generated by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) by [Anurag Hazra](https://github.com/anuraghazra)
+- Pinned-repo and stats cards generated by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) by [Anurag Hazra](https://github.com/anuraghazra)
 
-* GitHub Mark provided by GitHub [here](https://github.com/logos)
+- GitHub Mark provided by GitHub [here](https://github.com/logos)
 
-* HTML5 and CSS3 icons by <a href="https://pixabay.com/users/b3nj5m1n-5952967/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2582747">b3nj5m1n</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2582747">Pixabay</a>
+- HTML5 and CSS3 icons by <a href="https://pixabay.com/users/b3nj5m1n-5952967/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2582747">b3nj5m1n</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2582747">Pixabay</a>
 
-* Bootstrap icon from pngio.com
+- Bootstrap icon from pngio.com
 
-* Materialize icon from pngitem.com
+- Materialize icon from pngitem.com
 
-* JavaScript and MERN icons from [Wikimedia Commons](https://commons.wikimedia.org/)
+- JavaScript and MERN icons from [Wikimedia Commons](https://commons.wikimedia.org/)
 
-* jQuery, Node.js, npm, Express, MySQL, MongoDB, React, and React Bootstrap logos from pngegg.com
+- jQuery, Node.js, npm, Express, MySQL, MongoDB, React, and React Bootstrap logos from pngegg.com
 </details>
