@@ -10,6 +10,12 @@
 * [My Résumé](https://drive.google.com/file/d/1gOy3CkufWH_k_Y9dVFQYfZc955bPCT25/view)
 * [Email me!](mailto:lauracole1900@comcast.net)
 
+### **Jump to:**
+| [Pins](#pins) || [Stats](#stats) || [Skills](#skills) || [Credits](#credits) |
+
+<br />
+
+### **Pins**
 |Pinned Repos|Pinned Repos|
 |:---:|:---:|
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=LauraECole&theme=blue-green)](https://github.com/LauraCole1900/LauraECole)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=bcms&theme=blue-green)](https://github.com/LauraCole1900/bcms)|
@@ -18,6 +24,7 @@
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=mysqlEmployeeTracker&theme=blue-green)](https://github.com/LauraCole1900/mysqlEmployeeTracker)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=holiday-ecard-2020&theme=blue-green)](https://github.com/LauraCole1900/holiday-ecard-2020)|
 <br>
 
+### **Stats**
 |**GitHub Stats**|**Most-Used Languages**|
 |:---:|:---:|
 |[![LauraCole1900's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraCole1900&count_private=true&show-icons=true&theme=blue-green)](https://github.com/LauraCole1900/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraCole1900&layout=compact&theme=blue-green)](https://github.com/LauraCole1900/github-readme-stats)|
@@ -25,6 +32,7 @@
 
 <br>
 
+### **Skills**
 <table border="1px solid white" align="center" color="#2881a5" style="background-color: #040f0f; border: 1px solid white; border-radius: 4px">
   <tbody>
     <tr>
@@ -109,7 +117,7 @@
 
 <br>
 
-## Credits
+### **Credits**
 
 <details>
   <summary>Resources</summary>
