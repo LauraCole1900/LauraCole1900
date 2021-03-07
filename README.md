@@ -93,7 +93,8 @@
       <td align="center" width=100px>
         <img src="assets/sass-icon.png" alt="Sass">
       </td>
-      <td>
+      <td align="center" width=100px>
+        <img src="assets/nextjs-icon.png" alt="Next.js">
       </td>
       <td>
       </td>
