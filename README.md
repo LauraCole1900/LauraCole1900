@@ -127,5 +127,7 @@
 
 * JavaScript and MERN icons from [Wikimedia Commons](https://commons.wikimedia.org/)
 
+* Next.js icon from honext.io
+
 * jQuery, Node.js, npm, Express, MySQL, MongoDB, React, and React Bootstrap logos from pngegg.com
 </details>
