@@ -7,7 +7,7 @@
 | [My GitHub Skyline 2021](https://skyline.github.com/lauracole1900/2021) || [My Repositories](https://github.com/LauraCole1900?tab=repositories) || [My LinkedIn](https://www.linkedin.com/in/laura-cole-3661b01b9/) || [My Website](https://lauracole1900.github.io/LauraECole) || [My YouTube](https://www.youtube.com/channel/UCnr1r0jmgPg81Jf-UX4g_sg) || [My Résumé](https://drive.google.com/file/d/1gOy3CkufWH_k_Y9dVFQYfZc955bPCT25/view) || [Email me!](mailto:lauracole1900@comcast.net) |
 
 ### **Jump to:**
-| [Pins](#pins) || [Stats](#stats) || [Skills](#skills) || [Credits](#credits) |
+| [Pins](#pins) || [Stats](#stats) || [Skylines](#skylines) || [Skills](#skills) || [Credits](#credits) |
 
 ### **Pins**
 |Pinned Repos|Pinned Repos|
@@ -22,6 +22,10 @@
 |:---:|:---:|
 |[![LauraCole1900's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraCole1900&count_private=true&show-icons=true&theme=blue-green)](https://github.com/LauraCole1900/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraCole1900&layout=compact&theme=blue-green)](https://github.com/LauraCole1900/github-readme-stats)|
 |![Github Page Visit Count](https://komarev.com/ghpvc/?username=LauraCole1900&color=brightgreen)|
+
+### **Skylines**
+<script src="https://embed.github.com/view/3d/LauraCole1900/LauraCole1900/master/LauraCole1900-2020.stl"></script>
+<script src="https://embed.github.com/view/3d/LauraCole1900/LauraCole1900/master/LauraCole1900-2021.stl"></script>
 
 ### **Skills**
 <table border="1px solid white" align="center" color="#2881a5" style="background-color: #040f0f; border: 1px solid white; border-radius: 4px">
