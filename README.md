@@ -24,8 +24,8 @@
 |![Github Page Visit Count](https://komarev.com/ghpvc/?username=LauraCole1900&color=brightgreen)|
 
 ### **Skylines**
-<script src="https://embed.github.com/view/3d/LauraCole1900/LauraCole1900/main/LauraCole1900-2020.stl"></script>
-<script src="https://embed.github.com/view/3d/LauraCole1900/LauraCole1900/main/LauraCole1900-2021.stl"></script>
+![2020 Skyline](https://github.com/LauraCole1900/LauraCole1900/blob/main/assets/LauraCole1900-2020.stl)
+![2021 Skyline](https://github.com/LauraCole1900/LauraCole1900/blob/main/assets/LauraCole1900-2021.stl)
 
 ### **Skills**
 <table border="1px solid white" align="center" color="#2881a5" style="background-color: #040f0f; border: 1px solid white; border-radius: 4px">
