@@ -51,13 +51,16 @@
         <img src="assets/jquery-icon.png" alt="jQuery">
       </td>
       <td align="center" width=100px>
-        <img src="assets/nodejs-icon.png" alt="Node.js">
+        <img src="assets/ts-icon.png" alt="TypeScript">
       </td>
       <td align="center" width=100px>
-        <img src="assets/npm-icon.png" alt="npm">
+        <img src="assets/nodejs-icon.png" alt="Node.js">
       </td>
     </tr>
     <tr>
+      <td align="center" width=100px>
+        <img src="assets/npm-icon.png" alt="npm">
+      </td>
       <td align="center" width=100px>
         <img src="assets/expressjs-icon.png" alt="Express">
       </td>
@@ -79,16 +82,11 @@
       <td align="center" width=100px>
         <img src="assets/MERN-icon.png" alt="MERN Stack">
       </td>
-      <td>
-      </td>
     </tr>
     <tr>
       <th colspan="8" style="color: #2881a5">Learning</th>
     </tr>
     <tr>
-      <td align="center" width=100px>
-        <img src="assets/ts-icon.png" alt="TypeScript">
-      </td>
       <td align="center" width=100px>
         <img src="assets/redux-icon.png" alt="Redux">
       </td>
@@ -97,6 +95,8 @@
       </td>
       <td align="center" width=100px>
         <img src="assets/nextjs-icon.png" alt="Next.js">
+      </td>
+      <td>
       </td>
       <td>
       </td>
