@@ -96,7 +96,8 @@
       <td align="center" width=100px>
         <img src="assets/nextjs-icon.png" alt="Next.js">
       </td>
-      <td>
+      <td align="center" width=100px>
+        <img src="assets/aws-icon.png" alt="AWS">
       </td>
       <td>
       </td>
