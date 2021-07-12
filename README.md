@@ -37,6 +37,9 @@
     </tr>
     <tr>
       <td align="center" width=100px>
+        <img src="assets/github-mark-light.png" alt="GitHub">
+      </td>
+      <td align="center" width=100px>
         <img src="assets/html5-circle-icon.png" alt="HTML5">
       </td>
       <td align="center" width=100px>
@@ -57,16 +60,13 @@
       <td align="center" width=100px>
         <img src="assets/ts-icon.png" alt="TypeScript">
       </td>
-      <td align="center" width=100px>
-        <img src="assets/nodejs-icon.png" alt="Node.js">
-      </td>
     </tr>
     <tr>
       <td align="center" width=100px>
-        <img src="assets/npm-icon.png" alt="npm">
+        <img src="assets/nodejs-icon.png" alt="Node.js">
       </td>
       <td align="center" width=100px>
-        <img src="assets/expressjs-icon.png" alt="Express">
+        <img src="assets/npm-icon.png" alt="npm">
       </td>
       <td align="center" width=100px>
         <img src="assets/mysql-icon-2.png" alt="MySQL">
@@ -75,25 +75,41 @@
         <img src="assets/mongodb-icon.png" alt="MongoDB">
       </td>
       <td align="center" width=100px>
+        <img src="assets/expressjs-icon.png" alt="Express">
+      </td>
+      <td align="center" width=100px>
+        <img src="assets/graphql-icon.png" alt="GraphQL">
+      </td>
+      <td align="center" width=100px>
         <img src="assets/react-icon.png" alt="React">
       </td>
       <td align="center" width=100px>
         <img src="assets/react-bootstrap-icon.png" alt="React-Bootstrap">
       </td>
-      <td align="center" width=100px>
-        <img src="assets/github-mark-light.png" alt="GitHub">
-      </td>
+    </tr>
+    <tr>
       <td align="center" width=100px>
         <img src="assets/MERN-icon.png" alt="MERN Stack">
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
       </td>
     </tr>
     <tr>
       <th colspan="8" style="color: #2881a5">Learning</th>
     </tr>
     <tr>
-      <td align="center" width=100px>
-        <img src="assets/graphql-icon.png" alt="GraphQL">
-      </td>
       <td align="center" width=100px>
         <img src="assets/sass-icon.png" alt="Sass">
       </td>
@@ -105,6 +121,8 @@
       </td>
       <td align="center" width=100px>
         <img src="assets/aws-icon.png" alt="AWS">
+      </td>
+      <td>
       </td>
       <td>
       </td>
