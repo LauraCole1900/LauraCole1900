@@ -4,7 +4,7 @@
 
 ### I'm a 👩‍💻 webdev / 🎶 musician / 🥋 martial artist with a background in education. I get excited about learning new things, and I have a passion for helping others. Want to know more?
 
-| [My Repositories](https://github.com/LauraCole1900?tab=repositories) || [My LinkedIn](https://www.linkedin.com/in/laura-cole-3661b01b9/) || [My Website](https://lauracole1900.github.io/LauraECole) || [My YouTube](https://www.youtube.com/channel/UCnr1r0jmgPg81Jf-UX4g_sg) || [My Résumé](https://drive.google.com/file/d/1gOy3CkufWH_k_Y9dVFQYfZc955bPCT25/view) || [Email me!](mailto:lauracole1900@comcast.net) |
+| [My Repositories](https://github.com/LauraCole1900?tab=repositories) || [My LinkedIn](https://www.linkedin.com/in/laura-cole-3661b01b9/) || [My Website](https://lcolearts.com) || [My YouTube](https://www.youtube.com/channel/UCnr1r0jmgPg81Jf-UX4g_sg) || [My Résumé](https://drive.google.com/file/d/1gOy3CkufWH_k_Y9dVFQYfZc955bPCT25/view) || [Email me!](mailto:lauracole1900@comcast.net) |
 
 | [My GitHub Skyline 2020](https://skyline.github.com/lauracole1900/2020) || [My GitHub Skyline 2021](https://skyline.github.com/lauracole1900/2021) |
 
