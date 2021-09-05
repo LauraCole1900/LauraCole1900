@@ -151,7 +151,7 @@
 
 - Materialize icon from pngitem.com
 
-- JavaScript and MERN icons from [Wikimedia Commons](https://commons.wikimedia.org/)
+- JavaScript, TypeScript, GraphQL, AWS, and MERN icons from [Wikimedia Commons](https://commons.wikimedia.org/)
 
 - Next.js icon from honext.io
 
