@@ -1,6 +1,6 @@
 <div align="center"><img src="assets/meeker-n-longs-narrow-no-name.jpg" alt="Header" width=100%></div>
 
-# 👋 Hello! Welcome! I'm [Laura](https://lauracole1900.github.io/LauraECole).
+# 👋 Hello! Welcome! I'm [Laura](https://lcolearts.com).
 
 ### I'm a 👩‍💻 webdev / 🎶 musician / 🥋 martial artist with a background in education. I get excited about learning new things, and I have a passion for helping others. Want to know more?
 
