@@ -16,7 +16,7 @@
 
 |                                                                                        Pinned Repos                                                                                        |                                                                                       Pinned Repos                                                                                       |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|           [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=lcolearts.com&theme=blue-green)](https://github.com/LauraCole1900/LauraECole)           |                [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=bcms&theme=blue-green)](https://github.com/LauraCole1900/bcms)                |
+|         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=lcolearts.com&theme=blue-green)](https://github.com/LauraCole1900/LauraECole)          |                [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=bcms&theme=blue-green)](https://github.com/LauraCole1900/bcms)                |
 |    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=conferencePlanner&theme=blue-green)](https://github.com/LauraCole1900/conferencePlanner)    |        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=couchSurfers&theme=blue-green)](https://github.com/LauraCole1900/couchSurfers)        |
 |            [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=tacoParty&theme=blue-green)](https://github.com/LauraCole1900/tacoParty)            | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=apiWeatherDashboard&theme=blue-green)](https://github.com/LauraCole1900/apiWeatherDashboard) |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=mysqlEmployeeTracker&theme=blue-green)](https://github.com/LauraCole1900/mysqlEmployeeTracker) |  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=holiday-ecard-2020&theme=blue-green)](https://github.com/LauraCole1900/holiday-ecard-2020)  |
@@ -122,7 +122,8 @@
       <td align="center" width=100px>
         <img src="assets/aws-icon.png" alt="AWS">
       </td>
-      <td>
+      <td align="center" width=100px>
+        <img src="assets/jwt-icon.png" alt="JWT">
       </td>
       <td>
       </td>
