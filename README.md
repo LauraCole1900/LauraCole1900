@@ -37,59 +37,58 @@
     </tr>
     <tr>
       <td align="center" width=100px>
-        <img src="assets/github-mark-light.png" alt="GitHub">
+        <img src="assets/github-mark-light.png" alt="GitHub" title="GitHub">
       </td>
       <td align="center" width=100px>
-        <img src="assets/html5-circle-icon.png" alt="HTML5">
+        <img src="assets/html5-circle-icon.png" alt="HTML5" title="HTML5">
       </td>
       <td align="center" width=100px>
-        <img src="assets/css3-circle-icon.png" alt="CSS3">
+        <img src="assets/css3-circle-icon.png" alt="CSS3" title="CSS3">
       </td>
       <td align="center" width=100px>
-        <img src="assets/bootstrap-icon-2.png" alt="Bootstrap">
+        <img src="assets/bootstrap-icon-2.png" alt="Bootstrap" title="Bootstrap">
       </td>
       <td align="center" width=100px>
-        <img src="assets/materialize-icon.png" alt="Materialize">
+        <img src="assets/materialize-icon.png" alt="Materialize" title="Materialize">
       </td>
       <td align="center" width=100px>
-        <img src="assets/js-icon-2.png" alt="JavaScript">
+        <img src="assets/js-icon-2.png" alt="JavaScript" title="JavaScript">
+      <td align="center" width=100px>
+        <img src="assets/jquery-icon.png" alt="jQuery" title="jQuery">
       </td>
       <td align="center" width=100px>
-        <img src="assets/jquery-icon.png" alt="jQuery">
-      </td>
-      <td align="center" width=100px>
-        <img src="assets/ts-icon.png" alt="TypeScript">
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width=100px>
-        <img src="assets/nodejs-icon.png" alt="Node.js">
-      </td>
-      <td align="center" width=100px>
-        <img src="assets/npm-icon.png" alt="npm">
-      </td>
-      <td align="center" width=100px>
-        <img src="assets/mysql-icon-2.png" alt="MySQL">
-      </td>
-      <td align="center" width=100px>
-        <img src="assets/mongodb-icon.png" alt="MongoDB">
-      </td>
-      <td align="center" width=100px>
-        <img src="assets/expressjs-icon.png" alt="Express">
-      </td>
-      <td align="center" width=100px>
-        <img src="assets/graphql-icon.png" alt="GraphQL">
-      </td>
-      <td align="center" width=100px>
-        <img src="assets/react-icon.png" alt="React">
-      </td>
-      <td align="center" width=100px>
-        <img src="assets/react-bootstrap-icon.png" alt="React-Bootstrap">
+        <img src="assets/ts-icon.png" alt="TypeScript" title="TypeScript">
       </td>
     </tr>
     <tr>
       <td align="center" width=100px>
-        <img src="assets/MERN-icon.png" alt="MERN Stack">
+        <img src="assets/nodejs-icon.png" alt="Node.js" title="Node.js">
+      </td>
+      <td align="center" width=100px>
+        <img src="assets/npm-icon.png" alt="npm" title="npm">
+      </td>
+      <td align="center" width=100px>
+        <img src="assets/mysql-icon-2.png" alt="MySQL" title="MySQL">
+      </td>
+      <td align="center" width=100px>
+        <img src="assets/mongodb-icon.png" alt="MongoDB" title="MongoDB">
+      </td>
+      <td align="center" width=100px>
+        <img src="assets/expressjs-icon.png" alt="Express" title="Express">
+      </td>
+      <td align="center" width=100px>
+        <img src="assets/graphql-icon.png" alt="GraphQL" title="GraphQL">
+      </td>
+      <td align="center" width=100px>
+        <img src="assets/react-icon.png" alt="React" title="React">
+      </td>
+      <td align="center" width=100px>
+        <img src="assets/react-bootstrap-icon.png" alt="React-Bootstrap" title="React-Bootstrap">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width=100px>
+        <img src="assets/MERN-icon.png" alt="MERN Stack" title="MERN Stack">
       </td>
       <td>
       </td>
@@ -111,19 +110,19 @@
     </tr>
     <tr>
       <td align="center" width=100px>
-        <img src="assets/sass-icon.png" alt="Sass">
+        <img src="assets/sass-icon.png" alt="Sass" title="Sass">
       </td>
       <td align="center" width=100px>
-        <img src="assets/redux-icon.png" alt="Redux">
+        <img src="assets/redux-icon.png" alt="Redux" title="Redux">
       </td>
       <td align="center" width=100px>
-        <img src="assets/nextjs-icon.png" alt="Next.js">
+        <img src="assets/nextjs-icon.png" alt="Next.js" title="Next.js">
       </td>
       <td align="center" width=100px>
-        <img src="assets/aws-icon.png" alt="AWS">
+        <img src="assets/aws-icon.png" alt="AWS" title="AWS">
       </td>
       <td align="center" width=100px>
-        <img src="assets/jwt-icon.png" alt="JWT">
+        <img src="assets/jwt-icon.png" alt="JWT" title="JWT">
       </td>
       <td>
       </td>
