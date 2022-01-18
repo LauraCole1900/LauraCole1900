@@ -78,7 +78,7 @@
         <img src="assets/mongodb-icon.png" alt="MongoDB" title="MongoDB">
       </td>
       <td align="center" width=100px>
-        <img src="assets/expressjs-icon-2.png" alt="Express" title="Express">
+        <img src="assets/expressjs-icon-3.png" alt="Express" title="express">
       </td>
       <td align="center" width=100px>
         <img src="assets/graphql-icon.png" alt="GraphQL" title="GraphQL">
