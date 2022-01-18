@@ -53,7 +53,6 @@
       </td>
       <td align="center" width=100px>
         <img src="assets/js-icon-2.png" alt="JavaScript" title="JavaScript">
-      </td>
       <td align="center" width=100px>
         <img src="assets/jquery-icon.png" alt="jQuery" title="jQuery">
       </td>
@@ -67,9 +66,6 @@
       </td>
       <td align="center" width=100px>
         <img src="assets/npm-icon.png" alt="npm" title="npm">
-      </td>
-      <td align="center" width=100px>
-        <img src="assets/jwt-icon.png" alt="JWT" title="JWT">
       </td>
       <td align="center" width=100px>
         <img src="assets/mysql-icon-2.png" alt="MySQL" title="MySQL">
@@ -86,13 +82,15 @@
       <td align="center" width=100px>
         <img src="assets/react-icon.png" alt="React" title="React">
       </td>
-    </tr>
-    <tr>
       <td align="center" width=100px>
         <img src="assets/react-bootstrap-icon.png" alt="React-Bootstrap" title="React-Bootstrap">
       </td>
+    </tr>
+    <tr>
       <td align="center" width=100px>
         <img src="assets/MERN-icon.png" alt="MERN Stack" title="MERN Stack">
+      </td>
+      <td>
       </td>
       <td>
       </td>
@@ -124,6 +122,7 @@
         <img src="assets/aws-icon.png" alt="AWS" title="AWS">
       </td>
       <td align="center" width=100px>
+        <img src="assets/jwt-icon.png" alt="JWT" title="JWT">
       </td>
       <td>
       </td>
