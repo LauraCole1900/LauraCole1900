@@ -124,6 +124,7 @@
         <img src="assets/aws-icon.png" alt="AWS" title="AWS">
       </td>
       <td align="center" width=100px>
+        <img src="assets/threejs-icon-1.png" alt="three.js" title="three.js">
       </td>
       <td>
       </td>
