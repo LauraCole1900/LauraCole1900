@@ -85,17 +85,18 @@
         <img src="assets/graphql-icon.png" alt="GraphQL" title="GraphQL">
       </td>
       <td align="center" width=100px>
-        <img src="assets/react-icon.png" alt="React" title="React">
+        <img src="assets/apollo-icon-2.jpg" alt="Apollo" title="Apollo">
       </td>
     </tr>
     <tr>
+      <td align="center" width=100px>
+        <img src="assets/react-icon.png" alt="React" title="React">
+      </td>
       <td align="center" width=100px>
         <img src="assets/react-bootstrap-icon.png" alt="React-Bootstrap" title="React-Bootstrap">
       </td>
       <td align="center" width=100px>
         <img src="assets/MERN-icon.png" alt="MERN Stack" title="MERN Stack">
-      </td>
-      <td>
       </td>
       <td>
       </td>
@@ -113,7 +114,7 @@
     </tr>
     <tr>
       <td align="center" width=100px>
-        <img src="assets/sass-icon.png" alt="Sass" title="Sass">
+        <img src="assets/vite-logo.png" alt="Vite" title="Vite">
       </td>
       <td align="center" width=100px>
         <img src="assets/redux-icon.png" alt="Redux" title="Redux">
@@ -127,7 +128,8 @@
       <td align="center" width=100px>
         <img src="assets/threejs-icon-2.png" alt="three.js" title="three.js">
       </td>
-      <td>
+      <td align="center" width=100px>
+        <img src="assets/Java-Logo.png" alt="Java" title="Java">
       </td>
       <td>
       </td>
