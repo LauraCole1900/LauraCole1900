@@ -20,7 +20,7 @@
 |                [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=bcms&theme=blue-green)](https://github.com/LauraCole1900/bcms)                |    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=conferencePlanner&theme=blue-green)](https://github.com/LauraCole1900/conferencePlanner)    |
 |        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=couchSurfers&theme=blue-green)](https://github.com/LauraCole1900/couchSurfers)        |            [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=tacoParty&theme=blue-green)](https://github.com/LauraCole1900/tacoParty)            |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=apiWeatherDashboard&theme=blue-green)](https://github.com/LauraCole1900/apiWeatherDashboard) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=mysqlEmployeeTracker&theme=blue-green)](https://github.com/LauraCole1900/mysqlEmployeeTracker) |
-|  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=holiday-ecard-2021&theme=blue-green)](https://github.com/LauraCole1900/holiday-ecard-2021)  |
+|  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LauraCole1900&repo=holiday-ecard-2022&theme=blue-green)](https://github.com/LauraCole1900/holiday-ecard-2022)  |
 
 ### **Stats**
 
