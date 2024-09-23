@@ -128,7 +128,7 @@
         <img src="assets/Java-Logo.png" alt="Java" title="Java">
       </td>
       <td align="center" width=100px>
-        <img src="assets/python-icon.png" alt="Java" title="Java">
+        <img src="assets/python-icon.png" alt="Python" title="Python">
       </td>
       <td>
       </td>
