@@ -97,10 +97,10 @@
         <img src="assets/react-bootstrap-icon.png" alt="React-Bootstrap" title="React-Bootstrap">
       </td>
       <td align="center" width=100px>
-        <img src="assets/MERN-icon.png" alt="MERN Stack" title="MERN Stack">
+        <img src="assets/vite-logo.png" alt="Vite" title="Vite">
       </td>
       <td align="center" width=100px>
-        <img src="assets/vite-logo.png" alt="Vite" title="Vite">
+        <img src="assets/MERN-icon.png" alt="MERN Stack" title="MERN Stack">
       </td>
       <td>
       </td>
