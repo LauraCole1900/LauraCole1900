@@ -74,6 +74,9 @@
         <img src="assets/mysql-icon-2.png" alt="MySQL" title="MySQL">
       </td>
       <td align="center" width=100px>
+        <img src="assets/postgres-icon.png" alt="PostgreSQL" title="PostgreSQL">
+      </td>
+      <td align="center" width=100px>
         <img src="assets/mongodb-icon.png" alt="MongoDB" title="MongoDB">
       </td>
       <td align="center" width=100px>
@@ -82,11 +85,11 @@
       <td align="center" width=100px>
         <img src="assets/graphql-icon.png" alt="GraphQL" title="GraphQL">
       </td>
+    </tr>
+    <tr>
       <td align="center" width=100px>
         <img src="assets/apollo-icon-2.jpg" alt="Apollo" title="Apollo">
       </td>
-    </tr>
-    <tr>
       <td align="center" width=100px>
         <img src="assets/react-icon.png" alt="React" title="React">
       </td>
@@ -98,8 +101,6 @@
       </td>
       <td align="center" width=100px>
         <img src="assets/vite-logo.png" alt="Vite" title="Vite">
-      </td>
-      <td>
       </td>
       <td>
       </td>
