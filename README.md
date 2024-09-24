@@ -77,16 +77,22 @@
         <img src="assets/postgres-icon.png" alt="PostgreSQL" title="PostgreSQL">
       </td>
       <td align="center" width=100px>
+        <img src="assets/sequelize-icon.png" alt="Sequelize" title="Sequelize">
+      </td>
+      <td align="center" width=100px>
         <img src="assets/mongodb-icon.png" alt="MongoDB" title="MongoDB">
       </td>
+      <td align="center" width=100px>
+        <img src="assets/mongoose-icon.png" alt="Mongoose" title="Mongoose">
+      </td>
+    </tr>
+    <tr>
       <td align="center" width=100px>
         <img src="assets/jwt-icon.png" alt="JWT" title="JWT">
       </td>
       <td align="center" width=100px>
         <img src="assets/graphql-icon.png" alt="GraphQL" title="GraphQL">
       </td>
-    </tr>
-    <tr>
       <td align="center" width=100px>
         <img src="assets/apollo-icon-2.jpg" alt="Apollo" title="Apollo">
       </td>
@@ -101,10 +107,6 @@
       </td>
       <td align="center" width=100px>
         <img src="assets/MERN-icon.png" alt="MERN Stack" title="MERN Stack">
-      </td>
-      <td>
-      </td>
-      <td>
       </td>
       <td>
       </td>
