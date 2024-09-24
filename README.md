@@ -68,7 +68,7 @@
         <img src="assets/npm-icon.png" alt="npm" title="npm">
       </td>
       <td align="center" width=100px>
-        <img src="assets/jwt-icon.png" alt="JWT" title="JWT">
+        <img src="assets/expressjs-icon-3.png" alt="Express" title="express">
       </td>
       <td align="center" width=100px>
         <img src="assets/mysql-icon-2.png" alt="MySQL" title="MySQL">
@@ -80,7 +80,7 @@
         <img src="assets/mongodb-icon.png" alt="MongoDB" title="MongoDB">
       </td>
       <td align="center" width=100px>
-        <img src="assets/expressjs-icon-3.png" alt="Express" title="express">
+        <img src="assets/jwt-icon.png" alt="JWT" title="JWT">
       </td>
       <td align="center" width=100px>
         <img src="assets/graphql-icon.png" alt="GraphQL" title="GraphQL">
